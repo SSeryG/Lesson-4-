@@ -1,0 +1,2 @@
+C:\Users\stud\source\repos\SSeryG\Lesson-4-\.vs\Les 5.1\5\5\obj\Debug\5.csproj.AssemblyReference.cache
+C:\Users\stud\source\repos\SSeryG\Lesson-4-\.vs\Les 5.1\5\5\obj\Debug\5.csproj.CoreCompileInputs.cache
