@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
 using NUnit.Framework;
 
-namespace _5
-{
     
     [TestFixture]
     public class GeneratePrimesTest
@@ -28,4 +22,4 @@ namespace _5
             Assert.AreEqual(centArray[24], 97);
         }
     }
-}
+
